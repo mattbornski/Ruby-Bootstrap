@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 class HelloWorld
 	def initialize(name)
 		# The @ sign indicates that you're referring to an instance variable
